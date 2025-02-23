@@ -1,0 +1,12 @@
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.37
+langchain-openai==0.3.6
+langchain-postgres==0.0.13
+langchain-text-splitters==0.3.6
+pydantic==2.10.6
+docling==2.24.0
+docling-core==2.20.0
+docling-ibm-models==3.4.0
+docling-parse==3.4.0
+tiktoken==0.7.0

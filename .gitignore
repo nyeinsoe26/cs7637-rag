@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv
+llm-venv
+.langchain.db
+.env.template.swp
+
+# Virtual environment
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Database dump
+local/
+
+# Local dev files
+.env
+.build/
+
+# Unit tests
+.coverage
+.coverage-reports/
+ci/.logs/
+
+# acceptance tests
+report/*
+
+# IDE
+.idea/
+.vscode/
